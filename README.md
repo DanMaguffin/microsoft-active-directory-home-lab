@@ -1,4 +1,4 @@
-# microsoft-active-directory-home-lab
+# Microsoft-Active-Directory-Home-Lab
 A self-directed project to build and manage a virtualized Active Directory environment, simulating enterprise-level user and network management.
 
 ## Overview
